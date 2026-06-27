@@ -70,6 +70,7 @@ npm run dev           # Starts backend server on http://localhost:5000
 Navigate to the `client` directory, install packages, and run the Vite dev server:
 ```bash
 cd client
+```
 npm install
 npm run dev           # Starts frontend client on http://localhost:5173
 ```
